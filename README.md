@@ -8,9 +8,10 @@ Stay tuned!
 
 # For now, here is a syntax for the musical chat:
 
-!notes c4:4 would play a C in the 4th Octave (Middle C) for the duration 4 (a quarter note)
+!notes c4:4 would play a C in the 4th Octave (Middle C) for the duration 4 (a 1/4 note)
 
 So to play a tune, you could type something like this:
+
 !notes e4:4 d4:4 c4:4 d4:4 e4:8 r:8 e4:8 r:8 e4:2 d:8 r:8 d:8 r:8 d4:2 e4:8 r:8 g4:8 r:8 g4:2
 
 for the first half of mary had a little lamb. 
