@@ -18,7 +18,7 @@ for the first half of mary had a little lamb.
 
 
 
-The First half of the colon tells the chat what note to play! You can use all cromatic notes, c, c#, d, eb, e, f, f#, g, ab, a, bb, b     and an r represents a "rest" or a silence where there should be no notes!
+The First half of the colon tells the chat what note to play! You can use all chromatic notes, c, c#, d, eb, e, f, f#, g, ab, a, bb, b     and an r represents a "rest" or a silence where there should be no notes!
 The number before the colon is the octave (how high or low, from ~1-5)
 
 The second half of the colon is how long each note lasts! The higher the number, the smaller the note (like actual musical notation): 
