@@ -28,3 +28,9 @@ The second half of the colon is how long each note lasts! The higher the number,
 
 
 I'm going to have a list of songs/fanfares you can copy paste in the chat, but I want YOU to get creative and PLAY THE CHAT!!!!! :) 
+
+
+
+
+
+**1. Megalovania Intro -** !notes !notes d4:16 d4:16 d5:16 r:16 a4:16
