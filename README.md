@@ -1,12 +1,6 @@
-# ayyyyypapi.github.io
-Some cool stuffs is gonna be here soon.... maybe.
-
-Stay tuned!
+# ayyyyypapi's Musical Chat
 
 ---------------------------------------------------------------------------------------------------------------------------------
-
-
-# For now, here is a syntax for the musical chat:
 
 !notes c4:4 would play a C in the 4th Octave (Middle C) for the duration 4 (a 1/4 note)
 
