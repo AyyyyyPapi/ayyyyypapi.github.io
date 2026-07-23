@@ -2,6 +2,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+This is my first code! I wrote it as a fun little thing for the stream.
+
+Its a little clunky to look at, but isnt hard to use! I'm going to find ways to revise this and simplify in the future.
+
+Admittedly, it's easier if you know how music is written, but its here to be GOOFY and have fun over everything else!! :D
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+This is the *Current* Syntax for the musical chat:
+
 !notes c4:4 would play a C in the 4th Octave (Middle C) for the duration 4 (a 1/4 note)
 
 So to play a tune, you could type something like this:
