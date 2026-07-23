@@ -43,6 +43,8 @@ I'm going to have a list of songs/fanfares you can copy paste in the chat, but I
 
 **3. Super Mario Intro -** !notes e3:16 e3:16 r:16 e3:16 r:16 c3:16 e3:16 r:16 g3:16 r:16 r:8 g2:16
 
+**4. Song Of Storms -** !notes d4:16 f4:16 d5:4 d4:16 f4:16 d5:4 e5:8 r:16 f5:16 e5:16 f5:16 e5:16 c5:16 a4:4
+
 
 
 
