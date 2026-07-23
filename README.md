@@ -39,4 +39,8 @@ I'm going to have a list of songs/fanfares you can copy paste in the chat, but I
 
 **1. Megalovania Intro -** !notes d4:16 d4:16 d5:16 r:16 a4:16
 
-**2. Sea Shanty 2 Intro -** !notes a4:16 r:16 e4:16 d4:16 c#4:8 r:16 c#4:16 d4:16 e4:16 f#4:16 ab4:16 e4:4
+**2. Sea Shanty 2 Intro -** !notes a4:16 r:16 e4:16 d4:16 c#4:8 r:16 c#4:16 d4:16 e4:16 f#4:16 ab4:16 e4:4 f#4:16 r:16 e4:16 d4:16 c#4:16 r:16 c#4:16 r:16 b3:16 r:16 c#4:16 r:16 d4:4
+
+
+
+
