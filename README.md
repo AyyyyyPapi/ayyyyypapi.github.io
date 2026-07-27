@@ -39,7 +39,7 @@ I'm going to have a list of songs/fanfares you can copy paste in the chat, but I
 
 **1. Megalovania Intro -** !notes d3:16 d3:16 d4:16 r:16 a3:16
 
-**2. Sea Shanty 2 Intro (for Valreth) -** !notes a4:16 r:16 e4:16 d4:16 c#4:8 r:16 c#4:16 d4:16 e4:16 f#4:16 ab4:16 e4:4 f#4:16 r:16 e4:16 d4:16 c#4:16 r:16 c#4:16 r:16 b3:16 r:16 c#4:16 r:16 d4:4 a4:16 r:16 e4:16 d4:16 c#4:8 r:8 c#4:16 d4:16 e4:16 f#4:16 d4:8 r:8 f#4:16 e4:16 d4:16 c#4:16 b3:16 c#4:16 d4:16 f#4:16 e4:16 d4:16 c#4:16 b3:16 a3:16 r:16 r:8
+**2. Sea Shanty 2 Intro (for Valreth) -** !notes a4:16 r:16 e4:16 d4:16 c#4:8 r:16 c#4:16 d4:16 e4:16 f#4:16 ab4:16 e4:4 f#4:16 r:16 e4:16 d4:16 c#4:16 r:16 c#4:16 r:16 b3:16 r:16 c#4:16 r:16 d4:4 a4:16 r:16 e4:16 d4:16 c#4:8 r:8 c#4:16 d4:16 e4:16 f#4:16 d4:8 r:8 f#4:16 e4:16 d4:16 c#4:16 b3:16 c#4:16 d4:16 f#4:16 e4:16 d4:16 c#4:16 b3:16 a3:8 r:8
 
 **3. Super Mario Intro -** !notes e3:16 e3:16 r:16 e3:16 r:16 c3:16 e3:16 r:16 g3:16 r:16 r:8 g2:16 r:16 r:8
 
