@@ -47,17 +47,17 @@ Here's a list of songs/fanfares you can copy paste in the chat, but I want YOU t
 
 **1. Megalovania Intro -** ```!notes d3:16 d3:16 d4:16 r:16 a3:16```
 
-**2. Sea Shanty 2 Intro (for Valreth) -** !notes a4:16 r:16 e4:16 d4:16 c#4:8 r:16 c#4:16 d4:16 e4:16 f#4:16 ab4:16 e4:4 f#4:16 r:16 e4:16 d4:16 c#4:16 r:16 c#4:16 r:16 b3:16 r:16 c#4:16 r:16 d4:4 a4:16 r:16 e4:16 d4:16 c#4:8 r:8 c#4:16 d4:16 e4:16 f#4:16 d4:8 r:8 f#4:16 e4:16 d4:16 c#4:16 b3:16 c#4:16 d4:16 f#4:16 e4:16 d4:16 c#4:16 b3:16 a3:8 r:8
+**2. Sea Shanty 2 Intro (for Valreth) -** ```!notes a4:16 r:16 e4:16 d4:16 c#4:8 r:16 c#4:16 d4:16 e4:16 f#4:16 ab4:16 e4:4 f#4:16 r:16 e4:16 d4:16 c#4:16 r:16 c#4:16 r:16 b3:16 r:16 c#4:16 r:16 d4:4 a4:16 r:16 e4:16 d4:16 c#4:8 r:8 c#4:16 d4:16 e4:16 f#4:16 d4:8 r:8 f#4:16 e4:16 d4:16 c#4:16 b3:16 c#4:16 d4:16 f#4:16 e4:16 d4:16 c#4:16 b3:16 a3:8 r:8```
 
-**3. Super Mario Intro -** !notes e3:16 e3:16 r:16 e3:16 r:16 c3:16 e3:16 r:16 g3:16 r:16 r:8 g2:16 r:16 r:8
+**3. Super Mario Intro -** ```!notes e3:16 e3:16 r:16 e3:16 r:16 c3:16 e3:16 r:16 g3:16 r:16 r:8 g2:16 r:16 r:8```
 
-**4. Song Of Storms -** !notes d4:16 f4:16 d5:4 d4:16 f4:16 d5:4 e5:8 r:16 f5:16 e5:16 f5:16 e5:16 c5:16 a4:4
+**4. Song Of Storms -** ```!notes d4:16 f4:16 d5:4 d4:16 f4:16 d5:4 e5:8 r:16 f5:16 e5:16 f5:16 e5:16 c5:16 a4:4```
 
-**5. Cheesy Michael (For JiimmJams <3) -** !notes g4:4 r:8 f#4:8 e4:4 d4:4 b3:8 b3:8 d4:8 b3:8 b3:4 a3:4 g3:4 r:8 a3:8 b3:4 a3:4 g3:8 b3:8 a3:8 g3:8 g3:4
+**5. Cheesy Michael (For JiimmJams <3) -** ```!notes g4:4 r:8 f#4:8 e4:4 d4:4 b3:8 b3:8 d4:8 b3:8 b3:4 a3:4 g3:4 r:8 a3:8 b3:4 a3:4 g3:8 b3:8 a3:8 g3:8 g3:4```
 
-**6. Zelda's Lullaby (For Neera) -** !notes b4:2 d5:4 a4:2 g4:8 a4:8 b4:2 d5:4 a4:2 r:4 b4:2 d5:4 a5:2 g5:4 d5:2 c5:8 b4:8 a4:2
+**6. Zelda's Lullaby (For Neera) -** ```!notes b4:2 d5:4 a4:2 g4:8 a4:8 b4:2 d5:4 a4:2 r:4 b4:2 d5:4 a5:2 g5:4 d5:2 c5:8 b4:8 a4:2```
 
-**7. Deltarune Freedom Motif (BY EZARK07) -** !notes b3:2 r:8 b3:8 a#3:8 b3:8 f#4:4 a#3:8 b3:1 r:8 b3:8 a#3:8 g#3:8 f#3:4 a#3:4 b3:8 a#3:8 b3:8 f#4:4 r:8 f#4:8 g#4:8 f#4:4 f4:8 d#4:4 r:16 b3:4 c#4:4 r:16 g#3:4 r:16 c#4:4 d#4:4 r:16 f4:16 d#4:16 c#4:2
+**7. Deltarune Freedom Motif (BY EZARK07) -** ```!notes b3:2 r:8 b3:8 a#3:8 b3:8 f#4:4 a#3:8 b3:1 r:8 b3:8 a#3:8 g#3:8 f#3:4 a#3:4 b3:8 a#3:8 b3:8 f#4:4 r:8 f#4:8 g#4:8 f#4:4 f4:8 d#4:4 r:16 b3:4 c#4:4 r:16 g#3:4 r:16 c#4:4 d#4:4 r:16 f4:16 d#4:16 c#4:2```
 
 
 
