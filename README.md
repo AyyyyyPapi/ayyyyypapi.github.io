@@ -49,6 +49,8 @@ I'm going to have a list of songs/fanfares you can copy paste in the chat, but I
 
 ** 6. Zelda's Lullaby (For Neera) -** !notes b4:2 d5:4 a4:2
 
+**Deltarune Freedom Motif (BY EZARK07) _** !notes b3:2 r:8 b3:8 a#3:8 b3:8 f#4:4 a#3:8 b3:1 r:8 b3:8 a#3:8 g#3:8 f#3:4 a#3:4 b3:8 a#3:8 b3:8 f#4:4 r:8 f#4:8 g#4:8 f#4:4 f4:8 d#4:4 r:16 b3:4 c#4:4 r:16 g#3:4 r:16 c#4:4 d#4:4 r:16 f4:16 d#4:16 c#4:2
+
 
 
 
