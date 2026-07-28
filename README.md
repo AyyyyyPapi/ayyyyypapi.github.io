@@ -45,6 +45,8 @@ I'm going to have a list of songs/fanfares you can copy paste in the chat, but I
 
 **4. Song Of Storms -** !notes d4:16 f4:16 d5:4 d4:16 f4:16 d5:4 e5:8 r:16 f5:16 e5:16 f5:16 e5:16 c5:16 a4:4
 
+**Cheesy Michael (For JiimmJams <#) -** !notes g4:4 r:8 f#4:8 e4:4 d4:4 b3:8 b3:8 d4:8 b3:8 b3:4 a3:4 g3:4 r:8 a3:8 b3:4 a3:4 g3:8 b3:8 a3:8 g3:8 g3:4
+
 
 
 
