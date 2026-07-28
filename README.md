@@ -29,7 +29,7 @@ The second half of the colon is how long each note lasts! The higher the number,
 1 is a note that lasts a whole measure, 2 is half of the measure, 4 is a quarter, 8 is an eighth of the measure, and 16 is a 16th of the measure.
 
 NOW INTRODUCING more incremental note duration. While I work on a smooth way to implement all of these features I have in mind, I'll be adding simple versions of the concepts, such as: DOTTED NOTES!
-If you put a "." after the duration, it will multiply the duration by x1.5. (So if you type "!notes c4:4." it will play a c(in 4th octave) for the duration of a quarter note PLUS an eighth note, an 8. would be an eighth note PLUS a 16th note in duration. This lets us hold notes until they are supposed to stop! Eventually I think this will turn into something like 4+16 for a quarter plus a 16th (but I wonder if we will ever get so granular?)
+If you put a "." after the duration, it will multiply the duration by x1.5. (So if you type "!notes c4:4." it will play a c(in 4th octave) for the duration of a quarter note PLUS an eighth note; An 8. would be an eighth note PLUS a 16th note in duration. This lets us hold notes until they are supposed to stop! Eventually I think this will turn into something like 4+16 for a quarter plus a 16th (but I wonder if we will ever get so granular?)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
