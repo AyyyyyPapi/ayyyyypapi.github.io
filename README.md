@@ -59,7 +59,7 @@ Here's a list of songs/fanfares you can copy paste in the chat, but I want YOU t
 
 **7. Deltarune Freedom Motif (BY EZARK07) -** ```!notes b3:2 r:8 b3:8 a#3:8 b3:8 f#4:4 a#3:8 b3:1 r:8 b3:8 a#3:8 g#3:8 f#3:4 a#3:4 b3:8 a#3:8 b3:8 f#4:4 r:8 f#4:8 g#4:8 f#4:4 f4:8 d#4:4 r:16 b3:4 c#4:4 r:16 g#3:4 r:16 c#4:4 d#4:4 r:16 f4:16 d#4:16 c#4:2```
 
-
+**8. Epona's Song (for therodmanjay) -** ```!notes d5:8 b4:8 a4:2 d5:8 b4:8 a4:2 d5:8 b4:8 a4:4 b4:4 a4:2. f#4:4 f4:4 f#4:4 c#5:8 d5:8 b4:2 d5:2 d5:4 c#5:8 b4:8 a4:2```
 
 
 
