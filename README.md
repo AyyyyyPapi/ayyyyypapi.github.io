@@ -4,7 +4,7 @@
 
 This is my first code! I wrote it as a fun little thing for the stream.
 
-Its a little clunky to look at, but isnt hard to use! I'm going to find ways to revise this and simplify in the future.
+Its a little clunky to look at, but isn't hard to use! I'm going to find ways to revise this and simplify in the future.
 
 Admittedly, it's easier if you know how music is written, but its here to be GOOFY and have fun over everything else!! :D
 
@@ -28,13 +28,21 @@ The number before the colon is the octave (how high or low, from ~1-5)
 The second half of the colon is how long each note lasts! The higher the number, the smaller the note (like actual musical notation): 
 1 is a note that lasts a whole measure, 2 is half of the measure, 4 is a quarter, 8 is an eighth of the measure, and 16 is a 16th of the measure.
 
+NOW INTRODUCING more incremental note duration. While I work on a smooth way to implement all of these features I have in mind, I'll be adding simple versions of the concepts, such as: DOTTED NOTES!
+If you put a "." after the duration, it will multiply the duration by x1.5. (So if you type "!notes c4:4." it will play a c(in 4th octave) for the duration of a quarter note PLUS an eighth note, an 8. would be an eighth note PLUS a 16th note in duration. This lets us hold notes until they are supposed to stop! Eventually I think this will turn into something like 4+16 for a quarter plus a 16th (but I wonder if we will ever get so granular?)
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 
-I'm going to have a list of songs/fanfares you can copy paste in the chat, but I want YOU to get creative and PLAY THE CHAT!!!!! :) 
+**Notes you can play -** c, c#, d, eb, e, f, f#, g, ab, a, bb, b (you can also put the sharps and flats on the "wrong" notes and it should work just fine)
+
+**Durations for your notes -** 1. , 1 , 2. , 2 , 4. , 4 , 8. , 8 , 16
 
 
+---------------------------------------------------------------------------------------------------------------------------------
 
+
+Here's a list of songs/fanfares you can copy paste in the chat, but I want YOU to get creative and PLAY THE CHAT!!!!! :)
 
 
 **1. Megalovania Intro -** !notes d3:16 d3:16 d4:16 r:16 a3:16
