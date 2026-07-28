@@ -47,6 +47,7 @@ I'm going to have a list of songs/fanfares you can copy paste in the chat, but I
 
 **5. Cheesy Michael (For JiimmJams <#) -** !notes g4:4 r:8 f#4:8 e4:4 d4:4 b3:8 b3:8 d4:8 b3:8 b3:4 a3:4 g3:4 r:8 a3:8 b3:4 a3:4 g3:8 b3:8 a3:8 g3:8 g3:4
 
+** 6. Zelda's Lullaby (For Neera) -** !notes b4:2 d5:4 a4:2
 
 
 
