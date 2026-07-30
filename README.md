@@ -65,5 +65,8 @@ Here's a list of songs/fanfares you can copy paste in the chat, but I want YOU t
 
 **10. Jeapordy Theme (BY MAXPLAYER216) -** ```!notes g4:4 c5:4 g4:4 c4:4 g4:4 c5:4 g4:2 g4:4 c5:4 g4:4 c5:4 e5:2 c5:8 b4:8 a#4:8 a4:8 g#4:8 g4:4 c5:4 g4:4 c4:4 g4:4 c5:4 g4:2 c5:2 a4:8 g4:4 f4:4 e4:4 d4:4 c4:2```
 
+**11. Dearly Beloved (BY MAXPLAYER216) -** ```!notes c5:4. c5:8 g4:4. g4:8 f4:4. f4:8 d5:4. d5:8 c5:4. c5:8 g4:4. g4:8 f4:4. f4:8 d5:4. d5:8 d#5:4. d#5:8 d5:4. d5:8 g5:4. g5:8 f5:16 g5:16 f5:4 f5:8 d#5:4. d#5:8 d5:4. d5:8 c5:4. c5:8 a#4:4. a#4:8```
+
+**12. Jurassic Park Theme (BY PRNDDDL) -** ```!notes eb5:8 d5:8 eb5:2. eb5:8 d5:8 eb5:2. eb5:8 d5:8 eb5:4. f5:8 f5:4. ab5:8 ab5:2. g5:8 eb5:8 f5:4. d5:8 b4:4 g5:8 eb5:8 f5:2. bb5:8 eb5:8 ab5:4. g5:8 g5:4. f5:8 f5:2.```
 
 
