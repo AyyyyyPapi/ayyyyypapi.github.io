@@ -61,6 +61,8 @@ Here's a list of songs/fanfares you can copy paste in the chat, but I want YOU t
 
 **8. Epona's Song (for therodmanjay) -** ```!notes d5:8 b4:8 a4:2 d5:8 b4:8 a4:2 d5:8 b4:8 a4:4 b4:4 a4:2. f#4:4 f4:4 f#4:4 c#5:8 d5:8 b4:2 d5:2 d5:4 c#5:8 b4:8 a4:2```
 
+**Through The Fire And The Flames (BY MAXPLAYER216) ```!notes c4:16 d4:16 d#4:16 c4:16 d4:16 d#4:16 f4:16 d4:16 g4:16 d#4:16 f4:16 d4:16 d#4:16 c4:16 d4:16 b3:16 c4:16 d4:16 d#4:16 c4:16 d4:16 d#4:16 f4:16 d4:16 g4:16 d#4:16 f4:16 d4:16 d#4:16 c4:16 d4:16 b3:16 c4:4```
+
 
 
 
