@@ -63,7 +63,7 @@ Here's a list of songs/fanfares you can copy paste in the chat, but I want YOU t
 
 **9. Through The Fire And The Flames (BY MAXPLAYER216) -** ```!notes c4:16 d4:16 d#4:16 c4:16 d4:16 d#4:16 f4:16 d4:16 g4:16 d#4:16 f4:16 d4:16 d#4:16 c4:16 d4:16 b3:16 c4:16 d4:16 d#4:16 c4:16 d4:16 d#4:16 f4:16 d4:16 g4:16 d#4:16 f4:16 d4:16 d#4:16 c4:16 d4:16 b3:16 c4:4```
 
-
+**10. Jeapordy Theme (BY MAXPLAYER216) -** ```!notes g4:4 c5:4 g4:4 c4:4 g4:4 c5:4 g4:2 g4:4 c5:4 g4:4 c5:4 e5:2 c5:8 b4:8 a#4:8 a4:8 g#4:8 g4:4 c5:4 g4:4 c4:4 g4:4 c5:4 g4:2 c5:2 a4:8 g4:4 f4:4 e4:4 d4:4 c4:2```
 
 
 
