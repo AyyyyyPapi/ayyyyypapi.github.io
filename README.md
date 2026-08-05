@@ -8,6 +8,8 @@ Its a little clunky to look at, but isn't hard to use! I'm going to find ways to
 
 Admittedly, it's easier if you know how music is written, but its here to be GOOFY and have fun over everything else!! :D
 
+https://onlinesequencer.net/ This is a sequencer ezark used to help write out stuff in case you need some assistance really nailing down your notes.
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 This is the *Current* Syntax for the musical chat:
@@ -67,6 +69,8 @@ Here's a list of songs/fanfares you can copy paste in the chat, but I want YOU t
 
 **11. Dearly Beloved (BY MAXPLAYER216) -** ```!notes c5:4. c5:8 g4:4. g4:8 f4:4. f4:8 d5:4. d5:8 c5:4. c5:8 g4:4. g4:8 f4:4. f4:8 d5:4. d5:8 d#5:4. d#5:8 d5:4. d5:8 g5:4. g5:8 f5:16 g5:16 f5:4 f5:8 d#5:4. d#5:8 d5:4. d5:8 c5:4. c5:8 a#4:4. a#4:8```
 
-**12. Jurassic Park Theme (BY PRNDDDL) -** ```!notes eb5:8 d5:8 eb5:2. eb5:8 d5:8 eb5:2. eb5:8 d5:8 eb5:4. f5:8 f5:4. ab5:8 ab5:2. g5:8 eb5:8 f5:4. d5:8 b4:4 g5:8 eb5:8 f5:2. bb5:8 eb5:8 ab5:4. g5:8 g5:4. f5:8 f5:2.```
+**12. Jurassic Park Theme (BY PRNDDDL) -** ```!notes eb5:8 d5:8 eb5:2 r:4 eb5:8 d5:8 eb5:2 r:4 eb5:8 d5:8 eb5:4 r:8 f5:8 f5:4 r:8 ab5:8 ab5:2 r:4 g5:8 eb5:8 f5:4 r:8 d5:8 b4:4 g5:8 eb5:8 f5:2 r:4 bb5:8 eb5:8 ab5:4 r:8 g5:8 g5:4 r:8 f5:8 f5:2 r:4```
+
+
 
 
